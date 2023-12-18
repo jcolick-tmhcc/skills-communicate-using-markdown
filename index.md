@@ -2,7 +2,8 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-``` SQL
+```sql
+/*SQL*/
 SELECT "Hello, world!";
 ```
 
